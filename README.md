@@ -1,4 +1,4 @@
-# Jenkings
+# Jenkings [![Build Status](https://travis-ci.org/MiiMii1205/Jenkings.svg?branch=develop)](https://travis-ci.org/MiiMii1205/Jenkings)
 
 Ceci est le projet pour faire la démonstration du développement en continue pour
 le séminaire informatique du CAL.
